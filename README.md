@@ -2,7 +2,7 @@
 
 <!-- **kaych22/kaych22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+## I'm Kishore Chandra and I'm a Software Engineer & Photographer.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?label=factya.blogspot.com&style=for-the-badge&url=https%3A%2F%2Ffactya.blogspot.com)](http://factya.blogspot.com)
 
-## I'm Kishore Chandra and I'm a Software Engineer & Photographer.
 
 ### Connect with my social:
 
@@ -65,7 +64,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="kaych22's Github Stats" src="https://github-readme-stats.kaych22.vercel.app/api?username=kaych22&show_icons=true&hide_border=true" />
 
 </details>
 
