@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [install pimcore in Windows 10 Pro](http://factya.blogspot.com/2020/09/install-pimcore-in-windows-10-pro.html)
 - [curl and http error](http://factya.blogspot.com/2020/09/curl-error-with-http.html)
 - [webpack-dev-server error while running npm run serve (windows 10)](http://factya.blogspot.com/2020/09/webpack-dev-server-error-while-running.html)
 - [Features & Issues in my Nikon D3500 | #Nikon #NikonD3500](http://factya.blogspot.com/2020/09/issues-with-my-nikon-d3500-nikon.html)
 - [CodeRunner Jobe server error](http://factya.blogspot.com/2020/09/coderunner-jobe-server-error.html)
-- [error while running Laravel crud app](http://factya.blogspot.com/2020/09/error-while-running-laravel-crud-app.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
