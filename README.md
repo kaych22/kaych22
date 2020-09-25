@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [curl error with http](http://factya.blogspot.com/2020/09/curl-error-with-http.html)
 - [webpack-dev-server error while running npm run serve (windows 10)](http://factya.blogspot.com/2020/09/webpack-dev-server-error-while-running.html)
 - [Features & Issues in my Nikon D3500 | #Nikon #NikonD3500](http://factya.blogspot.com/2020/09/issues-with-my-nikon-d3500-nikon.html)
 - [CodeRunner Jobe server error](http://factya.blogspot.com/2020/09/coderunner-jobe-server-error.html)
 - [error while running Laravel crud app](http://factya.blogspot.com/2020/09/error-while-running-laravel-crud-app.html)
-- [cp: omitting directory issue](http://factya.blogspot.com/2020/09/cp-omitting-directory-issue.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
