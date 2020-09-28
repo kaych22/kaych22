@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- ["Err +/- [  ]  Flash"     message Nikon D3500  | #nikon #nikonD3500 #photography](http://factya.blogspot.com/2020/09/err-message-nikon-d3500.html)
 - [Install execution server or VPL(virtual programming lab)-Jail-Server in Ubuntu for Moodle LMS or IOMAD](http://factya.blogspot.com/2020/09/install-execution-server-or-vplvirtual.html)
 - [install pimcore in Windows 10 Pro](http://factya.blogspot.com/2020/09/install-pimcore-in-windows-10-pro.html)
 - [curl and http error](http://factya.blogspot.com/2020/09/curl-error-with-http.html)
 - [webpack-dev-server error while running npm run serve (windows 10)](http://factya.blogspot.com/2020/09/webpack-dev-server-error-while-running.html)
-- [Features & Issues in my Nikon D3500 | #Nikon #NikonD3500](http://factya.blogspot.com/2020/09/issues-with-my-nikon-d3500-nikon.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
