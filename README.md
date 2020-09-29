@@ -42,11 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nikon D3500](https://www.youtube.com/watch?v=kCipxpaHVJ0)
 - [Slo-Mo Nikon D3500](https://www.youtube.com/watch?v=JWopb_kg-aQ)
 - [Wishing You A Very Happy Birthday Brother | Kamal Nayan | ShotOnNikonD3500](https://www.youtube.com/watch?v=IgYPQlK_kB4)
 - [NAL Saras | IAF | Touch The Sky With Glory | ShotOnNikonD3500](https://www.youtube.com/watch?v=KylFlF7XDPU)
 - [Is what I see, what I imagine? | ShotOnNikonD3500](https://www.youtube.com/watch?v=RqFJ-CLdMcg)
-- [Mil Mi-17 helicopter | Touch The Sky With Glory | IAF](https://www.youtube.com/watch?v=2HPJwdOviio)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDR585XSUwK6DUQR7CHy9VA)
