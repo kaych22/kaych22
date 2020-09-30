@@ -42,7 +42,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Nikon D3500](https://www.youtube.com/watch?v=kCipxpaHVJ0)
+- [Nikon D3500 | SooC (Straight out of Camera) | Part 1](https://www.youtube.com/watch?v=kCipxpaHVJ0)
 - [Slo-Mo Nikon D3500](https://www.youtube.com/watch?v=JWopb_kg-aQ)
 - [Wishing You A Very Happy Birthday Brother | Kamal Nayan | ShotOnNikonD3500](https://www.youtube.com/watch?v=IgYPQlK_kB4)
 - [NAL Saras | IAF | Touch The Sky With Glory | ShotOnNikonD3500](https://www.youtube.com/watch?v=KylFlF7XDPU)
