@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5th longest bridge over water in India |  Vikramshila Setu | Slo-Mo Nikon D3500  #ShotOnNikonD3500 #slomo #photography](http://factya.blogspot.com/2020/10/5th-longest-bridge-over-water-in-india.html)
+- [Nikon D3500 | SooC (Straight out of Camera) | Part 1](http://factya.blogspot.com/2020/10/nikon-d3500-sooc-straight-out-of-camera.html)
+- [Nikon D3500 Portraits | SooC (Straight out of Camera) | Part 2](http://factya.blogspot.com/2020/10/nikon-d3500-portraits-sooc-straight-out.html)
 - [Virtual programming lab, Moodle Multi tenancy, Jobe Server issues](http://factya.blogspot.com/2020/09/virtual-programming-lab-moodle-multi.html)
 - ["Err +/- [  ]  Flash"     message Nikon D3500  | #nikon #nikonD3500 #photography](http://factya.blogspot.com/2020/09/err-message-nikon-d3500.html)
-- [Install execution server or VPL(virtual programming lab)-Jail-Server in Ubuntu for Moodle LMS or IOMAD](http://factya.blogspot.com/2020/09/install-execution-server-or-vplvirtual.html)
-- [install pimcore in Windows 10 Pro](http://factya.blogspot.com/2020/09/install-pimcore-in-windows-10-pro.html)
-- [curl and http error](http://factya.blogspot.com/2020/09/curl-error-with-http.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
