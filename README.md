@@ -42,7 +42,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Nikon D3500 Indian Aircraft #IAF Day | SooC (Straight out of Camera) | Part 3](https://www.youtube.com/watch?v=JzjFxZslVSs)
+- [#Nikon #D3500 Indian Aircraft #IAF Day | SooC (Straight out of Camera) | Part 3](https://www.youtube.com/watch?v=JzjFxZslVSs)
 - [Nikon D3500 Portraits | SooC (Straight out of Camera) | Part 2](https://www.youtube.com/watch?v=CxSVPgyv5AI)
 - [Nikon D3500 | SooC (Straight out of Camera) | Part 1](https://www.youtube.com/watch?v=kCipxpaHVJ0)
 - [Slo-Mo Nikon D3500](https://www.youtube.com/watch?v=JWopb_kg-aQ)
