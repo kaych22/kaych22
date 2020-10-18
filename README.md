@@ -42,11 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nikon D3500 | SooC (Straight out of Camera) | Part 5](https://www.youtube.com/watch?v=zSFnDRdnmSU)
+- [Nikon D3500 | SooC (Straight out of Camera) | Part 4](https://www.youtube.com/watch?v=RPigKHL1d6E)
 - [#Nikon #D3500 Indian Aircraft #IAF Day | SooC (Straight out of Camera) | Part 3](https://www.youtube.com/watch?v=JzjFxZslVSs)
 - [Nikon D3500 Portraits | SooC (Straight out of Camera) | Part 2](https://www.youtube.com/watch?v=CxSVPgyv5AI)
 - [Nikon D3500 | SooC (Straight out of Camera) | Part 1](https://www.youtube.com/watch?v=kCipxpaHVJ0)
-- [Slo-Mo Nikon D3500](https://www.youtube.com/watch?v=JWopb_kg-aQ)
-- [Wishing You A Very Happy Birthday Brother | Kamal Nayan | ShotOnNikonD3500](https://www.youtube.com/watch?v=IgYPQlK_kB4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDR585XSUwK6DUQR7CHy9VA)
