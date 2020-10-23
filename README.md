@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nikon D3500 Indian Aircraft #IAF Day | SooC (Straight out of Camera) | Part 3](http://factya.blogspot.com/2020/10/nikon-d3500-indian-aircraft-iaf-day.html)
-- [Touch The Sky With Glory - Indian Air Force  |  88th Indian Air Force Day  | #IAF](http://factya.blogspot.com/2020/10/touch-sky-with-glory-indian-air-force.html)
-- [5th longest bridge over water in India |  Vikramshila Setu | Slo-Mo Nikon D3500  #ShotOnNikonD3500 #slomo #photography](http://factya.blogspot.com/2020/10/5th-longest-bridge-over-water-in-india.html)
-- [Nikon D3500 | SooC (Straight out of Camera) | Part 1](http://factya.blogspot.com/2020/10/nikon-d3500-sooc-straight-out-of-camera.html)
-- [Nikon D3500 Portraits | SooC (Straight out of Camera) | Part 2](http://factya.blogspot.com/2020/10/nikon-d3500-portraits-sooc-straight-out.html)
+- [Nikon D3500 | SooC (Straight out of Camera) | Part 5](http://factya.blogspot.com/2020/10/nikon-d3500-sooc-straight-out-of-camera_51.html)
+- [Nikon D3500 | SooC (Straight out of Camera) | Part 4](http://factya.blogspot.com/2020/10/nikon-d3500-sooc-straight-out-of-camera_2.html)
+- [#Nikon #D3500 Indian Aircraft #IAF Day | SooC (Straight out of Camera) | Part 3](http://factya.blogspot.com/2020/10/nikon-d3500-indian-aircraft-iaf-day_23.html)
+- [Nikon D3500 Portraits | SooC (Straight out of Camera) | Part 2](http://factya.blogspot.com/2020/10/nikon-d3500-portraits-sooc-straight-out_23.html)
+- [Nikon D3500 | SooC (Straight out of Camera) | Part 1](http://factya.blogspot.com/2020/10/nikon-d3500-sooc-straight-out-of-camera_23.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
