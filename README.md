@@ -42,11 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nikon D3500 | Nikon 70-300mm non ED VR | SooC (Straight out of Camera) | Part 8](https://www.youtube.com/watch?v=sXZbgaKgmHs)
+- [Nikon D3500 | Nikon 70-300mm non ED VR | SooC (Straight out of Camera) | Part 7](https://www.youtube.com/watch?v=UL-Zywqsz84)
 - [Nikon D3500 | Dussehra | SooC (Straight out of Camera) | Part 6](https://www.youtube.com/watch?v=NrrXMolKzUA)
 - [Nikon D3500 | SooC (Straight out of Camera) | Part 5](https://www.youtube.com/watch?v=zSFnDRdnmSU)
 - [Nikon D3500 | SooC (Straight out of Camera) | Part 4](https://www.youtube.com/watch?v=RPigKHL1d6E)
-- [#Nikon #D3500 Indian Aircraft #IAF Day | SooC (Straight out of Camera) | Part 3](https://www.youtube.com/watch?v=JzjFxZslVSs)
-- [Nikon D3500 Portraits | SooC (Straight out of Camera) | Part 2](https://www.youtube.com/watch?v=CxSVPgyv5AI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDR585XSUwK6DUQR7CHy9VA)
