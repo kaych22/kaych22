@@ -42,7 +42,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Nikon AF Zoom NIKKOR 70-300mm f/4-5.6G Lens Unboxing | Nikon D3500](https://www.youtube.com/watch?v=z8CQ5GjMoh0)
+- [Nikon AF Zoom NIKKOR 70-300mm f/4-5.6G Lens Unboxing |  SooC (Straight out of Camera) | Part 9](https://www.youtube.com/watch?v=z8CQ5GjMoh0)
 - [Nikon D3500 | Nikkor 70-300mm non ED VR | SooC (Straight out of Camera) | Part 8](https://www.youtube.com/watch?v=sXZbgaKgmHs)
 - [Nikon D3500 | Nikkor 70-300mm non ED VR | SooC (Straight out of Camera) | Part 7](https://www.youtube.com/watch?v=UL-Zywqsz84)
 - [Nikon D3500 | Dussehra | SooC (Straight out of Camera) | Part 6](https://www.youtube.com/watch?v=NrrXMolKzUA)
