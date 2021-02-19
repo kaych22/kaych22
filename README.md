@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some Web Development Key Points.](http://factya.blogspot.com/2021/02/some-web-development-key-points.html)
 - [errors while creating and running reactjs app](http://factya.blogspot.com/2021/01/errors-while-creating-and-running.html)
 - [Unleash the Power of Visual Studio Code . #VSCODE](http://factya.blogspot.com/2021/01/unleash-power-of-visual-studio-code.html)
 - [Fragmentation can be scheduled in Windows 10 computer, is it right?  #windows #SSD #HDD](http://factya.blogspot.com/2021/01/fragmentation-can-be-scheduled-in.html)
 - [Nikon D3500 | SooC (Straight out of Camera) | Part 5](http://factya.blogspot.com/2020/10/nikon-d3500-sooc-straight-out-of-camera_51.html)
-- [Nikon D3500 | SooC (Straight out of Camera) | Part 4](http://factya.blogspot.com/2020/10/nikon-d3500-sooc-straight-out-of-camera_2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
