@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nikon D3500 - Fireworks | 18-55mm | 1080p - 24fps | SooC (Straight out of Camera)](http://factya.blogspot.com/2021/02/nikon-d3500-fireworks-18-55mm.html)
 - [Between Canon 1500d and Nikon d3500,which one is good in auto focus during video making.](http://factya.blogspot.com/2021/02/blogger-ideas-series-between-canon.html)
 - [Some Web Development Key Points.](http://factya.blogspot.com/2021/02/some-web-development-key-points.html)
 - [errors while creating and running reactjs app](http://factya.blogspot.com/2021/01/errors-while-creating-and-running.html)
 - [Unleash the Power of Visual Studio Code . #VSCODE](http://factya.blogspot.com/2021/01/unleash-power-of-visual-studio-code.html)
-- [Fragmentation can be scheduled in Windows 10 computer, is it right?  #windows #SSD #HDD](http://factya.blogspot.com/2021/01/fragmentation-can-be-scheduled-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
