@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When I tried to change my location and i got this error showing in edge](http://factya.blogspot.com/2021/02/when-i-tried-to-change-my-location-and.html)
+- [When will Nikon d3500 come to stock in Flipkart?](http://factya.blogspot.com/2021/02/when-will-nikon-d3500-come-to-stock-in.html)
+- [How many relocatable registers are there in Windows 10 OS](http://factya.blogspot.com/2021/02/how-many-relocatable-registers-are.html)
+- [UGC NET registration and online fee payment May 2021](http://factya.blogspot.com/2021/02/ugc-net-registration-and-online-fee.html)
+- [When I tried to change my Windows PC location and i got this error showing in edge](http://factya.blogspot.com/2021/02/when-i-tried-to-change-my-location-and.html)
 - [Nikon D3500 - Fireworks | 18-55mm | 1080p - 24fps | SooC (Straight out of Camera)](http://factya.blogspot.com/2021/02/nikon-d3500-fireworks-18-55mm.html)
-- [Between Canon 1500d and Nikon d3500,which one is good in auto focus during video making.](http://factya.blogspot.com/2021/02/blogger-ideas-series-between-canon.html)
-- [Some Web Development Key Points.](http://factya.blogspot.com/2021/02/some-web-development-key-points.html)
-- [errors while creating and running reactjs app](http://factya.blogspot.com/2021/01/errors-while-creating-and-running.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
