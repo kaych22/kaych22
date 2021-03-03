@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL interview questions](http://factya.blogspot.com/2021/03/sql-interview-questions.html)
 - [DBMS ACID Properties](http://factya.blogspot.com/2021/03/dbms-acid-properties.html)
 - [SQL Keys](http://factya.blogspot.com/2021/03/sql-keys.html)
 - [SQL JOINS](http://factya.blogspot.com/2021/03/sql-joins.html)
 - [When will Nikon d3500 come to stock in Flipkart?](http://factya.blogspot.com/2021/02/when-will-nikon-d3500-come-to-stock-in.html)
-- [How many relocatable registers are there in Windows 10 OS](http://factya.blogspot.com/2021/02/how-many-relocatable-registers-are.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
