@@ -56,7 +56,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Errors while creating full-stack web application with Python or flask, NPM, Webpack and React](http://factya.blogspot.com/2021/03/errors-while-creating-full-stack-web.html)
+- [Errors while creating full-stack web application with Python - flask, NPM, Webpack and React](http://factya.blogspot.com/2021/03/errors-while-creating-full-stack-web.html)
 - [SQL interview questions](http://factya.blogspot.com/2021/03/sql-interview-questions.html)
 - [DBMS ACID Properties](http://factya.blogspot.com/2021/03/dbms-acid-properties.html)
 - [SQL Keys](http://factya.blogspot.com/2021/03/sql-keys.html)
