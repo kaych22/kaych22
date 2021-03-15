@@ -42,7 +42,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [DSC 0583](https://www.youtube.com/watch?v=Sgi-8vOzQco)
+- [Squirrel & Spring ~ Nikon D3500 | Nikkor 70-300mm non ED VR](https://www.youtube.com/watch?v=Sgi-8vOzQco)
 - [Nikon D3500 - Fireworks | 18-55mm | 1080p - 24fps | SooC (Straight out of Camera) | Part 10](https://www.youtube.com/watch?v=jpZTuCN8hP4)
 - [Little Egret - White Heron | Nikon D3500 | Nikkor 70-300mm Non ED VR](https://www.youtube.com/watch?v=2sAlrYsKnj4)
 - [Nikon AF Zoom NIKKOR 70-300mm f/4-5.6G Lens Unboxing |  SooC (Straight out of Camera) | Part 9](https://www.youtube.com/watch?v=z8CQ5GjMoh0)
