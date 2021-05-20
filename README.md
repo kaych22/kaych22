@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#EspoCRM #Business #Open_Source](http://factya.blogspot.com/2021/05/espocrm-business-opensource.html)
 - [How to import and use web-svg, local stored - Image & SVG into your Reactjs App?](http://factya.blogspot.com/2021/03/how-to-use-image-svg-in-your-reactjs-app.html)
 - [Squirrel & Spring ~ Nikon D3500 | Nikkor 70-300mm non ED VR](http://factya.blogspot.com/2021/03/squirrel-spring-nikon-d3500-nikkor-70.html)
 - [Errors while creating full-stack web application with Python - flask, NPM, Webpack and React](http://factya.blogspot.com/2021/03/errors-while-creating-full-stack-web.html)
 - [SQL interview questions](http://factya.blogspot.com/2021/03/sql-interview-questions.html)
-- [DBMS ACID Properties](http://factya.blogspot.com/2021/03/dbms-acid-properties.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
