@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Error while installing ~ vtiger CRM](http://factya.blogspot.com/2021/06/error-while-installing-vtiger-crm.html)
 - [Error while running a reactjs app 17.0.1 with typescript 4.1.2](http://factya.blogspot.com/2021/06/error-while-running-reactjs-app-1701.html)
 - [#EspoCRM #Business #Open_Source](http://factya.blogspot.com/2021/05/espocrm-business-opensource.html)
 - [How to import and use web-svg, local stored - Image & SVG into your Reactjs App?](http://factya.blogspot.com/2021/03/how-to-use-image-svg-in-your-reactjs-app.html)
 - [Squirrel & Spring ~ Nikon D3500 | Nikkor 70-300mm non ED VR](http://factya.blogspot.com/2021/03/squirrel-spring-nikon-d3500-nikkor-70.html)
-- [Errors while creating full-stack web application with Python - flask, NPM, Webpack and React](http://factya.blogspot.com/2021/03/errors-while-creating-full-stack-web.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
