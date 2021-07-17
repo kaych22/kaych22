@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [error - hmm...can't reach the web](http://factya.blogspot.com/2021/07/error-hmmcant-reach-web.html)
 - [Websites running on #Reactjs](http://factya.blogspot.com/2021/07/websites-running-reactjs.html)
 - [Samsung M51 Review after 7 days usage, Pros & Cons.](http://factya.blogspot.com/2021/07/samsung-m51-review-after-7-days-usage.html)
 - [Microsoft Windows 11 - Download Insider Preview | Wallpaper | Check new upgrade  Error | Watch Live Launch Event](http://factya.blogspot.com/2021/06/microsoft-windows-11-wallpaper-check.html)
 - [Error while installing ~ vtiger CRM](http://factya.blogspot.com/2021/06/error-while-installing-vtiger-crm.html)
-- [Error while running a reactjs app 17.0.1 with typescript 4.1.2](http://factya.blogspot.com/2021/06/error-while-running-reactjs-app-1701.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
