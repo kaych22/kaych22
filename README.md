@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AXIOS : Promise based HTTP client for the browser and node.js](http://factya.blogspot.com/2021/08/axios-promise-based-http-client-for.html)
 - [AMD Ryzen 5 4600H vs AMD Ryzen 7 4800H](http://factya.blogspot.com/2021/08/amd-ryzen-5-4600h-vs-amd-ryzen-7-4800h.html)
 - [React Lifecycle methods and their purposes](http://factya.blogspot.com/2021/08/react-lifecycle-methods-and-their.html)
 - [error - hmm...can't reach the web](http://factya.blogspot.com/2021/07/error-hmmcant-reach-web.html)
 - [Websites running on #Reactjs](http://factya.blogspot.com/2021/07/websites-running-reactjs.html)
-- [Samsung M51 Review after 7 days usage, Pros & Cons.](http://factya.blogspot.com/2021/07/samsung-m51-review-after-7-days-usage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
