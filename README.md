@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weird behavior of Windows start menu](http://factya.blogspot.com/2021/09/weird-behavior-of-windows-start-menu.html)
 - [react-scripts start](http://factya.blogspot.com/2021/08/react-scripts-start.html)
 - [GraphQL vs REST](http://factya.blogspot.com/2021/08/graphql-vs-rest.html)
 - [vuejs setup error - ExecutionPolicy Unrestricted](http://factya.blogspot.com/2021/08/vuejs-installation-error.html)
 - [AXIOS : with JavaScript or TypeScript?](http://factya.blogspot.com/2021/08/axios-promise-based-http-client-for.html)
-- [AMD Ryzen 5 4600H vs AMD Ryzen 7 4800H](http://factya.blogspot.com/2021/08/amd-ryzen-5-4600h-vs-amd-ryzen-7-4800h.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
