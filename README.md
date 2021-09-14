@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a Carousel works?](http://factya.blogspot.com/2021/09/how-carousel-functions.html)
 - [Weird behavior of Windows start menu](http://factya.blogspot.com/2021/09/weird-behavior-of-windows-start-menu.html)
 - [react-scripts start](http://factya.blogspot.com/2021/08/react-scripts-start.html)
 - [GraphQL vs REST](http://factya.blogspot.com/2021/08/graphql-vs-rest.html)
 - [vuejs setup error - ExecutionPolicy Unrestricted](http://factya.blogspot.com/2021/08/vuejs-installation-error.html)
-- [AXIOS : with JavaScript or TypeScript?](http://factya.blogspot.com/2021/08/axios-promise-based-http-client-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
