@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [npm update check failed](http://factya.blogspot.com/2021/11/npm-update-check-failed.html)
 - [More Productive @Work, How?](http://factya.blogspot.com/2021/11/more-productive-work-how.html)
 - [How a Carousel works?](http://factya.blogspot.com/2021/09/how-carousel-functions.html)
 - [Weird behavior of Windows start menu](http://factya.blogspot.com/2021/09/weird-behavior-of-windows-start-menu.html)
 - [react-scripts start](http://factya.blogspot.com/2021/08/react-scripts-start.html)
-- [GraphQL vs REST](http://factya.blogspot.com/2021/08/graphql-vs-rest.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
