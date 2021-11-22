@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reasons I like Microsoft Edge over any other Browsers](http://factya.blogspot.com/2021/11/reasons-i-like-microsoft-edge-over-any.html)
+- [New &quot;CSS Overview&quot; tab in Microsoft Edge Dev Tools](http://factya.blogspot.com/2021/11/css-overview-tab-in-microsoft-edge-dev.html)
 - [npm update check failed](http://factya.blogspot.com/2021/11/npm-update-check-failed.html)
 - [More Productive @Work, How?](http://factya.blogspot.com/2021/11/more-productive-work-how.html)
 - [How a Carousel works?](http://factya.blogspot.com/2021/09/how-carousel-functions.html)
-- [Weird behavior of Windows start menu](http://factya.blogspot.com/2021/09/weird-behavior-of-windows-start-menu.html)
-- [react-scripts start](http://factya.blogspot.com/2021/08/react-scripts-start.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
