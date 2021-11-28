@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 movies to watch this Fall 2021.](http://factya.blogspot.com/2021/11/5-movies-to-watch-this-winter.html)
 - [Reasons I like Microsoft Edge over any other Browsers](http://factya.blogspot.com/2021/11/reasons-i-like-microsoft-edge-over-any.html)
 - [New &quot;CSS Overview&quot; tab in Microsoft Edge Dev Tools](http://factya.blogspot.com/2021/11/css-overview-tab-in-microsoft-edge-dev.html)
 - [npm update check failed](http://factya.blogspot.com/2021/11/npm-update-check-failed.html)
 - [More Productive @Work, How?](http://factya.blogspot.com/2021/11/more-productive-work-how.html)
-- [How a Carousel works?](http://factya.blogspot.com/2021/09/how-carousel-functions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
