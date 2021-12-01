@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Competitor and Alternative of IDM &lpar;Internet Download Manager&rpar; 🤔](http://factya.blogspot.com/2021/12/competitor-and-alternative-of-idm.html)
 - [New updated Google Photos App features Locked Folder, other than Pixel devices.](http://factya.blogspot.com/2021/12/google-brings-locked-folder-feature-to.html)
 - [How Microsoft gave hints of Windows 11 in early Windows 10 Insiders Dev Builds](http://factya.blogspot.com/2021/11/how-microsoft-gave-hints-of-windows-11.html)
 - [5 movies to watch this Fall 2021.](http://factya.blogspot.com/2021/11/5-movies-to-watch-this-winter.html)
 - [Reasons I like Microsoft Edge over any other Browsers](http://factya.blogspot.com/2021/11/reasons-i-like-microsoft-edge-over-any.html)
-- [New &quot;CSS Overview&quot; tab in Microsoft Edge Dev Tools](http://factya.blogspot.com/2021/11/css-overview-tab-in-microsoft-edge-dev.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
