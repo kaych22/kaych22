@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wir sind das Land von 🤶 Weihnachten 🎅](http://factya.blogspot.com/2021/12/wir-sind-das-land-von-weihnachten.html)
 - [Competitor or Alternative of IDM &lpar;Internet Download Manager&rpar; 🤔](http://factya.blogspot.com/2021/12/competitor-and-alternative-of-idm.html)
 - [Google Photos App&#39;s Locked Folder feature to non-Pixel devices.](http://factya.blogspot.com/2021/12/google-brings-locked-folder-feature-to.html)
 - [How Microsoft gave hints of Windows 11 in early Windows 10 Insiders Dev Builds](http://factya.blogspot.com/2021/11/how-microsoft-gave-hints-of-windows-11.html)
 - [5 movies to watch this Fall 2021.](http://factya.blogspot.com/2021/11/5-movies-to-watch-this-winter.html)
-- [Reasons I like Microsoft Edge over any other Browsers](http://factya.blogspot.com/2021/11/reasons-i-like-microsoft-edge-over-any.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
