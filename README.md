@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Connection Error with Angular app](http://factya.blogspot.com/2022/01/mongodb-connection-error-with-angularjs.html)
 - [Moodle 4.0](http://factya.blogspot.com/2021/12/moodle-40.html)
 - [Wir sind das Land von 🤶 Weihnachten 🎅](http://factya.blogspot.com/2021/12/wir-sind-das-land-von-weihnachten.html)
 - [Competitor or Alternative of IDM &lpar;Internet Download Manager&rpar; 🤔](http://factya.blogspot.com/2021/12/competitor-and-alternative-of-idm.html)
 - [Google Photos App&#39;s Locked Folder feature to non-Pixel devices.](http://factya.blogspot.com/2021/12/google-brings-locked-folder-feature-to.html)
-- [How Microsoft gave hints of Windows 11 in early Windows 10 Insiders Dev Builds](http://factya.blogspot.com/2021/11/how-microsoft-gave-hints-of-windows-11.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
