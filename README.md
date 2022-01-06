@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [npx is failing to install react app | suggestions any?!](http://factya.blogspot.com/2022/01/npx-is-failing-to-install-react-app.html)
 - [CES 2022, Las Vegas](http://factya.blogspot.com/2022/01/ces-2022-las-vegas.html)
 - [MongoDB Connection Error with Angular app](http://factya.blogspot.com/2022/01/mongodb-connection-error-with-angularjs.html)
 - [Moodle 4.0](http://factya.blogspot.com/2021/12/moodle-40.html)
 - [Wir sind das Land von 🤶 Weihnachten 🎅](http://factya.blogspot.com/2021/12/wir-sind-das-land-von-weihnachten.html)
-- [Competitor or Alternative of IDM &lpar;Internet Download Manager&rpar; 🤔](http://factya.blogspot.com/2021/12/competitor-and-alternative-of-idm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
