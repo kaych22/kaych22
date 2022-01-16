@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [POST /wordpress/wp-admin/admin-ajax.php HTTP/1.1&quot; 200 47](http://factya.blogspot.com/2022/01/post-wordpresswp-adminadmin-ajaxphp.html)
 - [API testing:  tools | apps | extensions](http://factya.blogspot.com/2022/01/api-testing-tools-apps-extensions.html)
 - [Easiest way to reset or change MySQL password](http://factya.blogspot.com/2022/01/easiest-way-to-reset-or-change-mysql.html)
 - [npx is failing to install react app | suggestions any?!](http://factya.blogspot.com/2022/01/npx-is-failing-to-install-react-app.html)
 - [CES 2022, Las Vegas](http://factya.blogspot.com/2022/01/ces-2022-las-vegas.html)
-- [MongoDB Connection Error with Angular app](http://factya.blogspot.com/2022/01/mongodb-connection-error-with-angularjs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
