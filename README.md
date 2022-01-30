@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn, practice &amp; test your German Skills | A1 - A2 Level](http://factya.blogspot.com/2022/01/learn-practice-test-your-german-skill.html)
 - [Stack overflow Jobs and developers story will be discontinued from April 2022](http://factya.blogspot.com/2022/01/stack-overflow-jobs-and-developers.html)
 - [without using store route in angular](http://factya.blogspot.com/2022/01/without-using-store-route-in-angular.html)
 - [POST /wordpress/wp-admin/admin-ajax.php HTTP/1.1&quot; 200 47](http://factya.blogspot.com/2022/01/post-wordpresswp-adminadmin-ajaxphp.html)
 - [API testing:  tools | apps | extensions](http://factya.blogspot.com/2022/01/api-testing-tools-apps-extensions.html)
-- [Easiest way to reset or change MySQL password](http://factya.blogspot.com/2022/01/easiest-way-to-reset-or-change-mysql.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
