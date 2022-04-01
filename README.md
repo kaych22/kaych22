@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All New Stack Overflow &amp; FILTERS](http://factya.blogspot.com/2022/03/all-new-stack-overflow.html)
 - [AngularJS vs Angular](http://factya.blogspot.com/2022/03/angularjs-vs-angular.html)
 - [Microsoft&#39;s - FAST](http://factya.blogspot.com/2022/02/microsofts-fast.html)
 - [Learn, practice &amp; test your German Skills | A1 - A2 Level](http://factya.blogspot.com/2022/01/learn-practice-test-your-german-skill.html)
 - [Stack overflow Jobs and developers story will be discontinued from April 2022](http://factya.blogspot.com/2022/01/stack-overflow-jobs-and-developers.html)
-- [without using store route in angular](http://factya.blogspot.com/2022/01/without-using-store-route-in-angular.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
