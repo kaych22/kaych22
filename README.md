@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [websites running vue.js](http://factya.blogspot.com/2022/06/websites-running-vuejs.html)
 - [Why &amp; How to - Git | Conflicts](http://factya.blogspot.com/2022/04/why-how-to-git-conflicts.html)
 - [WWDC 2022](http://factya.blogspot.com/2022/04/wwdc-2022.html)
 - [5G - When &amp; How ?](http://factya.blogspot.com/2022/04/5g-when-how.html)
 - [Microsoft&#39;s Liquid Text](http://factya.blogspot.com/2022/04/microsofts-liquid-text.html)
-- [All New 2022 Stack Overflow &amp; FILTERS](http://factya.blogspot.com/2022/03/all-new-stack-overflow.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
