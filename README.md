@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aha..!!  That&#39;s JavaScript](http://factya.blogspot.com/2022/11/aha-thats-javascript.html)
 - [Stack overflow - COLLECTIVES](http://factya.blogspot.com/2022/09/stack-overflow-collectives.html)
 - [August Themes for VS Code  | Ultimate Package](http://factya.blogspot.com/2022/08/august-themes-for-vs-code-ultimate.html)
 - [Lenovo IdeaPad Gaming 3 | Windows 11 Upgrade](http://factya.blogspot.com/2022/06/lenovo-ideapad-gaming-3-windows-11.html)
 - [websites running vue.js](http://factya.blogspot.com/2022/06/websites-running-vuejs.html)
-- [Why &amp; How to - Git | Conflicts](http://factya.blogspot.com/2022/04/why-how-to-git-conflicts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
