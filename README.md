@@ -42,11 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Days Gone 2019 | Windows 11 | Sony Interactive Entertainment | Intro](https://www.youtube.com/watch?v=2mqaldvAMhE)
 - [Nikon D3500 ~ 18-55mm](https://www.youtube.com/watch?v=Oop71OfXPBc)
 - [Squirrel &amp; Spring ~ Nikon D3500 | Nikkor 70-300mm non ED VR](https://www.youtube.com/watch?v=Sgi-8vOzQco)
 - [Nikon D3500 - Fireworks | 18-55mm | 1080p - 24fps | SooC &lpar;Straight out of Camera&rpar; | Part 10](https://www.youtube.com/watch?v=jpZTuCN8hP4)
 - [Little Egret - White Heron | Nikon D3500 | Nikkor 70-300mm Non ED VR](https://www.youtube.com/watch?v=2sAlrYsKnj4)
-- [Nikon AF Zoom NIKKOR 70-300mm f/4-5.6G Lens Unboxing |  SooC &lpar;Straight out of Camera&rpar; | Part 9](https://www.youtube.com/watch?v=z8CQ5GjMoh0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDR585XSUwK6DUQR7CHy9VA)
