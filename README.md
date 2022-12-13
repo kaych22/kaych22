@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [keycloak sso | cogo-toast](http://factya.blogspot.com/2022/12/keycloak-sso-cogo-toast.html)
+- [SolidJS  &amp; SwiperJS](http://factya.blogspot.com/2022/12/solidjs-swiperjs.html)
 - [BACKEND Developer Roadmap 2022 | roadmap.sh](http://factya.blogspot.com/2022/11/backend-roadmap-2022-roadmapsh.html)
 - [How huge is AWS?](http://factya.blogspot.com/2022/11/how-huge-is-aws.html)
 - [Aha..!!  That&#39;s JavaScript](http://factya.blogspot.com/2022/11/aha-thats-javascript.html)
-- [Stack overflow - COLLECTIVES](http://factya.blogspot.com/2022/09/stack-overflow-collectives.html)
-- [August Themes for VS Code  | Ultimate Package](http://factya.blogspot.com/2022/08/august-themes-for-vs-code-ultimate.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
