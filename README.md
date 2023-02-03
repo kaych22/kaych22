@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JEST for React and Angular  |  React and Angular Testing Library](http://factya.blogspot.com/2023/02/jest-for-react-and-angular-react-and.html)
 - [keycloak sso | cogo-toast | date n time picker](http://factya.blogspot.com/2022/12/keycloak-sso-cogo-toast.html)
 - [SolidJS  &amp; SwiperJS](http://factya.blogspot.com/2022/12/solidjs-swiperjs.html)
 - [BACKEND Developer Roadmap 2022 | roadmap.sh](http://factya.blogspot.com/2022/11/backend-roadmap-2022-roadmapsh.html)
 - [How huge is AWS?](http://factya.blogspot.com/2022/11/how-huge-is-aws.html)
-- [Aha..!!  That&#39;s JavaScript](http://factya.blogspot.com/2022/11/aha-thats-javascript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
