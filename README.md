@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Bard is now available in INDIA](http://factya.blogspot.com/2023/05/google-bard-is-now-available-in-india.html)
+- [Google I/O 2023](http://factya.blogspot.com/2023/05/google-io-2023.html)
+- [Angular 16 Released](http://factya.blogspot.com/2023/05/angular-16-released.html)
 - [Node &amp; Redis cache Connection](http://factya.blogspot.com/2023/02/node-redis-cache-connection.html)
 - [React Redux](http://factya.blogspot.com/2023/02/react-redux.html)
-- [Pros &amp; Cons of going to the office](http://factya.blogspot.com/2023/02/pros-cons-of-going-to-office.html)
-- [JEST for React and Angular  |  React and Angular Testing Library | MS App Dynamics](http://factya.blogspot.com/2023/02/jest-for-react-and-angular-react-and.html)
-- [keycloak sso | cogo-toast | date n time picker](http://factya.blogspot.com/2022/12/keycloak-sso-cogo-toast.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
