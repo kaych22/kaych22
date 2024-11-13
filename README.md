@@ -56,11 +56,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get Windows 11 24H2 update](http://factya.blogspot.com/2024/11/how-to-get-windows-11-24h2-update.html)
+- [End of support for Windows 10, Windows 8.1 and Windows 7](http://factya.blogspot.com/2024/11/end-of-support-for-windows-10-windows.html)
+- [Windows 11 2024 update | Biggest release ever 24H2](http://factya.blogspot.com/2024/11/windows-11-2024-update.html)
+- [WordPad is going to be deleted in Windows 11 24H2 update](http://factya.blogspot.com/2024/11/wordpad-is-going-to-be-deleted-in.html)
 - [Paint 3D won&#39;t be available in the Microsoft Store | starting on Nov 4, 2024.](http://factya.blogspot.com/2024/11/paint-3d-wont-be-available-in-microsoft.html)
-- [Happy 10th anniversary, Windows Insiders!](http://factya.blogspot.com/2024/11/happy-10th-anniversary-windows-insiders.html)
-- [Google Bard is now available in INDIA](http://factya.blogspot.com/2023/05/google-bard-is-now-available-in-india.html)
-- [Google I/O 2023](http://factya.blogspot.com/2023/05/google-io-2023.html)
-- [Angular 16 Released](http://factya.blogspot.com/2023/05/angular-16-released.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://factya.blogspot.com/)
