@@ -42,11 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#Dussehra 2026 #durgapuja #maadurga #mahadev](https://www.youtube.com/shorts/VXN9HQTeoJs)
 - [Bow - Dragon Booster | Miss those school days](https://www.youtube.com/watch?v=KJ-sYTYo1tc)
 - [Counter Strike 2 |  2023 | The Ancient Map](https://www.youtube.com/watch?v=5btWZXYPu9o)
 - [Sniper Ghost Warrior Contracts 2 | CRYENGINE | Intro | D1](https://www.youtube.com/watch?v=YURBL18exsQ)
 - [Days Gone 2019 | Windows 11 | Sony Interactive Entertainment | Intro](https://www.youtube.com/watch?v=2mqaldvAMhE)
-- [Nikon D3500 ~ 18-55mm](https://www.youtube.com/watch?v=Oop71OfXPBc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDR585XSUwK6DUQR7CHy9VA)
