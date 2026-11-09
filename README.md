@@ -42,11 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#diwali #dipawali #mahakali Kali Puja 2026 #maa #maakali #mahadev #shotoniphone](https://www.youtube.com/shorts/Hf4Y0QMP4gE)
 - [#durgapuja #kali #kalipuja #maa #mahadev #maadurga #maakali](https://www.youtube.com/shorts/BB-Yoh0JUkQ)
 - [#Dussehra 2026 #durgapuja #maadurga #mahadev](https://www.youtube.com/shorts/VXN9HQTeoJs)
 - [Bow - Dragon Booster | Miss those school days](https://www.youtube.com/watch?v=KJ-sYTYo1tc)
 - [Counter Strike 2 |  2023 | The Ancient Map](https://www.youtube.com/watch?v=5btWZXYPu9o)
-- [Sniper Ghost Warrior Contracts 2 | CRYENGINE | Intro | D1](https://www.youtube.com/watch?v=YURBL18exsQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDR585XSUwK6DUQR7CHy9VA)
