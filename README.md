@@ -42,7 +42,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [#diwali #dipawali #mahakali Kali Puja 2026 #maa #maakali #mahadev #shotoniphone](https://www.youtube.com/shorts/Hf4Y0QMP4gE)
+- [#maakali #kalipuja #mahakali 2026 #mahadev #maa](https://www.youtube.com/shorts/cqSGkvVQn4s)
 - [#durgapuja #kali #kalipuja #maa #mahadev #maadurga #maakali](https://www.youtube.com/shorts/BB-Yoh0JUkQ)
 - [#Dussehra 2026 #durgapuja #maadurga #mahadev](https://www.youtube.com/shorts/VXN9HQTeoJs)
 - [Bow - Dragon Booster | Miss those school days](https://www.youtube.com/watch?v=KJ-sYTYo1tc)
