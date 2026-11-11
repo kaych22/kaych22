@@ -42,11 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#hanumanji #performance #stageshow #kalipuja 2026 #pawansingh](https://www.youtube.com/shorts/p1yVjAArvmw)
 - [#maakali #kalipuja #mahakali 2026 #mahadev #maa](https://www.youtube.com/shorts/cqSGkvVQn4s)
 - [#durgapuja #kali #kalipuja #maa #mahadev #maadurga #maakali](https://www.youtube.com/shorts/BB-Yoh0JUkQ)
 - [#Dussehra 2026 #durgapuja #maadurga #mahadev](https://www.youtube.com/shorts/VXN9HQTeoJs)
 - [Bow - Dragon Booster | Miss those school days](https://www.youtube.com/watch?v=KJ-sYTYo1tc)
-- [Counter Strike 2 |  2023 | The Ancient Map](https://www.youtube.com/watch?v=5btWZXYPu9o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDR585XSUwK6DUQR7CHy9VA)
