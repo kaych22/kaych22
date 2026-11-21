@@ -42,11 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Devutthana Ekadashi   #mahadev #vishnu #cosmic #galaxy](https://www.youtube.com/shorts/HJ5_hGfikaI)
 - [Chhath Puja 2026 - dusra urgha #chhathpuja #bihar #sunrise #shotonmoto](https://www.youtube.com/shorts/omolmlDJJuQ)
 - [Chhath Puja 2026 - pahla urgha #chhathpuja #bihar #bhagalpur #sunset #shotonmoto](https://www.youtube.com/shorts/4K9TATqrVtA)
 - [#hanumanji #performance #ram #stageshow #kalipuja 2026 #pawansingh](https://www.youtube.com/shorts/p1yVjAArvmw)
 - [#maakali #kalipuja #mahakali 2026 #mahadev #maa](https://www.youtube.com/shorts/cqSGkvVQn4s)
-- [#durgapuja #kali #kalipuja #maa #mahadev #maadurga #maakali](https://www.youtube.com/shorts/BB-Yoh0JUkQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDR585XSUwK6DUQR7CHy9VA)
